@@ -9,7 +9,7 @@
 }
 .menu{
      flex: 5%;
-    background-color: darkgray;
+    background-color: yellow;
 }
 .content{
      flex: 70%;

@@ -13,7 +13,7 @@
 }
 .content{
      flex: 70%;
-     background-color: tomato;
+     background-color: blue;
 }
 .footer{
      flex: 10%;

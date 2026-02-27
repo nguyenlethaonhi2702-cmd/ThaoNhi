@@ -20,6 +20,7 @@
 .menu hover{
     background-color: lightgray;
     color: black;
+}
 .content{
      flex: 70%;
      background-color: white;

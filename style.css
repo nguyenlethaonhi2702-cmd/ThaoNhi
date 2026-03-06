@@ -6,6 +6,7 @@
 .header{
      flex: 15%;
     background-color: pink;
+     background: url (" ") center 100% no repeat;
 }
 .menu {
      flex: 5%;

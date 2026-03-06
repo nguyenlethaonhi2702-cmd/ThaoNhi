@@ -5,7 +5,7 @@
 }
 .header{
      flex: 15%;
-     background-color: pink;
+     background: url("image/IMG_20260302_150706.jpg") center/100%;
 }
 .menu {
      flex: 5%;

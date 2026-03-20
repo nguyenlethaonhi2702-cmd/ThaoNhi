@@ -1,6 +1,11 @@
 
-<head>
- <body> 
-   <from></from>
- </body>
-</head>
+ <head>
+    <meta charset="utf-8">
+ </head>
+ <body>
+   <form>
+     <label>Họ và tên:<input= "text" name= "txtTen"></label><br>
+     <label>Địa chỉ email:<input= "text" name= "txtTen"></label><br>
+     <label>Ý kiến đóng góp:<textarea name= "textComment" rows= "6" cols= "40"></textarea></label>
+   </form>
+</body>

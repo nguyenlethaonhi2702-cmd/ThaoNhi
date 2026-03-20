@@ -4,6 +4,7 @@
  </head>
  <body>
    <form>
+ 
      <label>Họ và tên:
        <input= "text" name= "txtTen">
      </label><br>

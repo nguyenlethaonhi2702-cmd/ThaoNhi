@@ -20,7 +20,7 @@
       <input type="checkbox" name="chkCNTT">cờ vua<br>
 
    <br><br>
-<input type="submit" name="cmd" value="Góp ý">
+<input type="submit" name="cmd" value="đăng kí">
 </form>
 </body>
 </html>

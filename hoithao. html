@@ -13,11 +13,11 @@
       <input type="radio" name="otpclass" value= "10">lớp 10<br>
       <input type="radio" name="otpclass"value="11">lớp 11<br>
       <input type="radio" name="otpclass"value"12">lớp 12<br>
-  <
+  
   <h3>2. tham dự môn</h3>
-      <input type="checkbox" name="chkTruyenNgan">bóng bàn<br>
-      <input type="checkbox" name="chkKiNang">cầu lông<br>
-      <input type="checkbox" name="chkCNTT">cờ vua<br>
+      <input type="checkbox" name="chkmon">bóng bàn<br>
+      <input type="checkbox" name="chkmon">cầu lông<br>
+      <input type="checkbox" name="chkmon">cờ vua<br>
 
    <br><br>
 <input type="submit" name="cmd" value="đăng kí">

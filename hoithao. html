@@ -1,1 +1,26 @@
+<html>
+<head>
+  <meta charset ="utf-8">
+</head>
+  <body>
+ <form action="url">
+  <h2>Đăng kí tham gia hội thao</h2>
+    <label>Họ và tên: <input type="text" name="txtName"></label>
+      <br>
+    <label>Địa chỉ Email: <input type="email" name="txtEmail"></label>
+    <label>Password: <input type="password" name="txtPassword"></label>
+    <label>lớp</label><br>
+      <input type="radio" name="otpclass" value= "10">lớp 10<br>
+      <input type="radio" name="otpclass"value="11">lớp 11<br>
+      <input type="radio" name="otpclass"value"12">lớp 12<br>
+  <
+  <h3>2. tham dự môn</h3>
+      <input type="checkbox" name="chkTruyenNgan">bóng bàn<br>
+      <input type="checkbox" name="chkKiNang">cầu lông<br>
+      <input type="checkbox" name="chkCNTT">cờ vua<br>
 
+   <br><br>
+<input type="submit" name="cmd" value="Góp ý">
+</form>
+</body>
+</html>

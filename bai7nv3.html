@@ -7,8 +7,10 @@
   <p id="kq"> </p>
   <srcipt>
     let pp = new URLSearchParam ( window.location.search);
-    let name = pp.get("txtname");
-    
+    let Name = pp.get("txtName");
+    let yk = pp.get("txtComents");
+    document.getElemenById("kq").innerHTML = "Cảm ơn bạn" + Name
+     + "đã đóng góp ý<br><br>Chúng tôi xin ghi nhận hý kiến của bạn như sau:<br>" +yk;
   </srcipt>
 </body>
 </html>
